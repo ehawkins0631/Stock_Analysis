@@ -33,8 +33,13 @@ Figure 2:
 ![image](https://user-images.githubusercontent.com/101227930/188049047-d5cfbd99-4d74-4fda-a2db-64321e153eda.png)
 
 Figure 3:
+
 ![image](https://user-images.githubusercontent.com/101227930/188049244-fa434f16-f748-4166-976d-a2d7c73bdf7c.png)
 
+
+Figure 4:
+
+https://github.com/ehawkins0631/Stock_Analysis/blob/main/code%20ran%202017%20after.png?raw=true
 
 
 
