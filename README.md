@@ -47,6 +47,11 @@ Figure 5:
 ![image](https://user-images.githubusercontent.com/101227930/188049612-c47ad1d6-f510-4cfc-addb-849f8fbcdff4.png)
 
 
+Figure 6:
+
+![image](https://user-images.githubusercontent.com/101227930/188049704-f40d67b1-18c5-4adc-ab8d-1da994f06b7d.png)
+
+
 
 In conclusion, ENPH and RUN were the best performing stocks in 2018 (shown in green). DQ was down 63%.
 
