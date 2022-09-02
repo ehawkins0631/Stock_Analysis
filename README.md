@@ -25,6 +25,11 @@ As shown above, the 2017 timer ran faster before the changes, and 2018 timer ran
 
 Figure 1:
 
+![image](https://user-images.githubusercontent.com/101227930/188049163-a15dd642-a501-40c9-8445-3cdd02e3349a.png)
+
+
+Figure 2:
+
 ![image](https://user-images.githubusercontent.com/101227930/188049047-d5cfbd99-4d74-4fda-a2db-64321e153eda.png)
 
 
