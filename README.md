@@ -23,6 +23,10 @@ Timer 2018 after refactor 0.8330078
 
 As shown above, the 2017 timer ran faster before the changes, and 2018 timer ran faster after the changes.
 
+Figure 1:
+
+![image](https://user-images.githubusercontent.com/101227930/188049047-d5cfbd99-4d74-4fda-a2db-64321e153eda.png)
+
 
 In conclusion, ENPH and RUN were the best performing stocks in 2018 (shown in green). DQ was down 63%.
 
