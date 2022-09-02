@@ -48,3 +48,13 @@ Advantages
 It is mostly safe since one may not refactor without testing
 Since run times may be shorter, it can boost the systems performance
 It is possible to make it easier to read than original version
+
+
+
+
+email:  ehawkins0631@gmail.com
+
+twitter: @evahawkins0630
+
+https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
